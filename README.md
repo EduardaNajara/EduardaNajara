@@ -1,10 +1,31 @@
-# 👋 Hi, I’m @EduardaNajara
-- 👀 I’m interested in Java Script
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Layout Design
-- 📫 How to reach me eduardadudanajara@gmail.com
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=577B8D&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=1000&color=577B8D&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda;I'm+19+years+old;I'm+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=EduardaNajara&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+##
+
+<div align=center>
   
-<!---
-EduardaNajara/EduardaNajara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://beacons.ai/EduardaNajara">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&theme=tokyonight"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaNajara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  
+</div>
+
+<div align=center widht=100%>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=577B8D&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align=center>
+<a href="https://instagram.com/eduardanajara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:eduardadudanajara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduarda-najara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=577B8D&height=120&section=footer"/>
