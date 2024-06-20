@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=577B8D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=1000&color=577B8D&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda;I'm+19+years+old;I'm+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=1000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda;I'm+19+years+old;I'm+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=EduardaNajara&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -24,8 +24,8 @@
 
 <div align=center widht=100%>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=577B8D&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=577B8D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=footer"/>
