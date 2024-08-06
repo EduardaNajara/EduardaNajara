@@ -1,15 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=1000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda;I'm+19+years+old;I'm+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=30&duration=4000&pause=1000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9)](https://git.io/typing-svg)
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=EduardaNajara&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align=center>
-<a href="https://instagram.com/eduardanajara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:eduardadudanajara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduarda-najara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=6FA5FD&color:FFF)](mailto:eduardadudanajara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6FA5FD&color:FFF)](https://www.linkedin.com/in/eduarda-najara/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6FA5FD&color:FFF)](https://www.instagram.com/eduardanajara/)
+
 </div>
 
 ##
