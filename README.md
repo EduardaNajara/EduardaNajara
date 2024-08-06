@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=30&duration=4000&pause=1000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=2000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9)](https://git.io/typing-svg)
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=EduardaNajara&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
