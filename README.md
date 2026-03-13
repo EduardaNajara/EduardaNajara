@@ -7,22 +7,23 @@
 </p>
 
 <div align=center>
-  
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=6FA5FD&color:FFF)](mailto:eduardadudanajara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6FA5FD&color:FFF)](https://www.linkedin.com/in/eduarda-najara/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6FA5FD&color:FFF)](https://www.instagram.com/eduardanajara/)
 
 </div>
 
-##
-
-<div align=center>
-  
-<a href="https://beacons.ai/EduardaNajara">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&theme=tokyonight"/>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaNajara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-  
-</div>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&theme=tokyonight"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=EduardaNajara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+</td>
+</tr>
+</table>
 
 <div align=center widht=100%>
   
