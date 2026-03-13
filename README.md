@@ -3,16 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=2000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9)](https://git.io/typing-svg)
 
 <p align=center>
-  <img width=60% alt="Meu GIF" src="https://github.com/user-attachments/assets/8baad318-5215-4714-ba6c-042deb1a4d80"/>
+  <img width=50% alt="Meu GIF" src="https://github.com/user-attachments/assets/8baad318-5215-4714-ba6c-042deb1a4d80"/>
 </p>
-
-<div align=center>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=6FA5FD&color:FFF)](mailto:eduardadudanajara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6FA5FD&color:FFF)](https://www.linkedin.com/in/eduarda-najara/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6FA5FD&color:FFF)](https://www.instagram.com/eduardanajara/)
-
-</div>
 
 <table align="center">
 <tr>
