@@ -6,6 +6,12 @@
   <img width=50% alt="Meu GIF" src="https://github.com/user-attachments/assets/1fe059cc-fa5b-4381-b171-efd996e821e4"/>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,next,react,angular,python,java"/>
+  </a>
+</p>
+
 <p align=center>
   <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
 </p>
