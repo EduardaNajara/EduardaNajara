@@ -6,10 +6,9 @@
   <img width=50% alt="Meu GIF" src="https://github.com/user-attachments/assets/1fe059cc-fa5b-4381-b171-efd996e821e4"/>
 </p>
 
-<div align="center">
-<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&theme=tokyonight"/>
-<img height=190px src="https://github-readme-stats.vercel.app/api?username=EduardaNajara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-</div>
+<p align=center>
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
+</p>
 
 <div align=center widht=100%>
   
