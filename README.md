@@ -6,9 +6,15 @@
   <img width=50% alt="Meu GIF" src="https://github.com/user-attachments/assets/1fe059cc-fa5b-4381-b171-efd996e821e4"/>
 </p>
 
+<p align="center">  
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,angular,next,java,nodejs,idea,tailwind,visualstudio,mysql,linux"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,angular,tailwind,java,idea,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,cs,cpp,dotnet,ts,bootstrap,postman"/>
   </a>
 </p>
 
