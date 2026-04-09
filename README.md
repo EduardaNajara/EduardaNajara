@@ -18,13 +18,18 @@
   </a>
 </p>
 
+<div align=center widht=100%>
+  
+![Ashutosh's github activity graph](https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=dracula)
+</div>
+
 <p align=center>
   <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
 </p>
 
 <div align=center widht=100%>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=footer"/>
