@@ -25,12 +25,12 @@
 </br>
 
 <div align="center">
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=dracula"/>
-  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&theme=dracula&langs_count=10&layout=compact"/>
+  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=tokyonight"/>
+  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&langs_count=10&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
