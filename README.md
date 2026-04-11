@@ -2,32 +2,38 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=2000&color=6FA5FD&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9)](https://git.io/typing-svg)
 
-<p align=center>
+<div align="center">
   <img width=50% alt="Meu GIF" src="https://github.com/user-attachments/assets/1fe059cc-fa5b-4381-b171-efd996e821e4"/>
-</p>
+</div>
 
-<p align="center">  
+</br>
+
+<div align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,angular,next,java,nodejs,idea,tailwind,spring,mysql,linux"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+</br>
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git,js,cs,cpp,dotnet,ts,bootstrap,postman"/>
   </a>
-</p>
-
-<div align=center widht=100%>
-  
-![Ashutosh's github activity graph](https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=dracula)
 </div>
 
-<p align=center>
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
-</p>
+</br>
 
-<div align=center widht=100%>
+<div align="center">
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaNajara&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=dracula"/>
+  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&theme=dracula&langs_count=15&layout=compact"/>
+</div>
+
+<div align="center">
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)
 </div>
