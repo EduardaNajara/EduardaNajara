@@ -29,7 +29,7 @@
 
 <div align=center widht=100%>
   
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaNajara&bg_color=0d11171&color=577B8D&line=6FA5FD&point=eeeeee&area=true&hide_border=true)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=footer"/>
