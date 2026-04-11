@@ -30,7 +30,7 @@
 
 <div align="center">
   <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=dracula"/>
-  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&theme=dracula&langs_count=15&layout=compact"/>
+  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&theme=dracula&langs_count=10&layout=compact"/>
 </div>
 
 <div align="center">
