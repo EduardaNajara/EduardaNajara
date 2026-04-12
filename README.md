@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6FA5FD&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=2000&color=6FA5FD&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=300&size=50&duration=4000&pause=2000&color=6FA5FD&center=true&vCenter=true&width=1200&lines=✦+Welcome+to+my+profile!+✦" />
 </p>
 
 <div align="center">
   <img 
-    width="50%" 
+    width="60%" 
     alt="Meu GIF" 
     src="https://github.com/user-attachments/assets/1fe059cc-fa5b-4381-b171-efd996e821e4"
   />
