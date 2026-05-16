@@ -25,8 +25,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
-  <img height="180em" src="https://my-github-stats-m6n2.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-kappa-seven.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
+  <img height="180em" src="https://github-stats-kappa-seven.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
 
 <div align="center">
