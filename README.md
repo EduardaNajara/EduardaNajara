@@ -45,8 +45,8 @@ Currently, I am also studying **UX/UI Design** at EBAC, aiming to combine develo
 #
 
 <div align="center">
-  <img height="220em" src="https://github-stats-kappa-seven.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="220em" src="https://github-stats-kappa-seven.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
+  <img height="230em" src="https://github-stats-kappa-seven.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="230em" src="https://github-stats-kappa-seven.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
 </div>
 
 <div align="center">
