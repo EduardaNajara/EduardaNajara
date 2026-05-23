@@ -14,7 +14,7 @@
 
 <table align="center">
   <tr>
-    <td width="500px" valign="top">
+    <td width="800px" valign="top">
 
 # About me
 
