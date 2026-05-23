@@ -12,7 +12,27 @@
   />
 </div>
 
----
+<table align="center">
+  <tr>
+    <td width="600px" valign="top">
+
+# About me
+
+My name is **Eduarda Najara** and I am currently studying Information Systems, currently in the 5th semester.
+
+I have experience in software development using **Java** for backend and **Angular** for frontend applications, gained during a one-year internship at the Court of Justice of Rondônia.
+
+During this experience, I worked on real projects and developed both technical and teamwork skills.
+
+I am always looking to improve my knowledge through complementary courses, especially on platforms like Alura.
+
+Currently, I am also studying **UX/UI Design** at EBAC, aiming to combine development and user experience to create better digital solutions.
+
+  </td>
+  </tr>
+</table>
+
+#
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,next,idea,java,spring,nodejs,tailwind,mysql,linux"/>
@@ -22,11 +42,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,js,cs,cpp,dotnet,ts,bootstrap,postman"/>
 </div>
 
----
+#
 
 <div align="center">
-  <img height="180em" src="https://github-stats-kappa-seven.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
-  <img height="180em" src="https://github-stats-kappa-seven.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="270em" src="https://github-stats-kappa-seven.vercel.app/api/top-langs/?username=EduardaNajara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="270em" src="https://github-stats-kappa-seven.vercel.app/api?username=EduardaNajara&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
 </div>
 
 <div align="center">
